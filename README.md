@@ -3,7 +3,7 @@
 
 This project is for educational purpose. We try to recreate styles and structure of sample sign up page.
 
-Site published at 
+Site published at https://eglejuske.github.io/4-signup/.
 
 ## Project features
 - css components

@@ -1,0 +1,33 @@
+.btn {
+	display: inline-block;
+	float: left;
+	background-color: #0659B3;
+	color: #fff;
+	padding: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-radius: 20px;
+	font-size: 20px;
+	line-height: 20px;
+	cursor: pointer;
+	box-shadow: 0 4px 8px #666;
+}
+	.btn:hover {
+		background-color: #1f71c9;
+		box-shadow: 0 4px 10px #333;
+	}
+
+.close-btn {
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 55px;
+	float: left;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	color: #777;
+	cursor: pointer;
+}

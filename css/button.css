@@ -1,7 +1,7 @@
 .btn {
 	display: inline-block;
 	float: left;
-	background-color: #0659B3;
+	background-color: #0659b3;
 	color: #fff;
 	padding: 10px;
 	padding-left: 40px;
@@ -12,10 +12,10 @@
 	cursor: pointer;
 	box-shadow: 0 4px 8px #666;
 }
-	.btn:hover {
-		background-color: #1f71c9;
-		box-shadow: 0 4px 10px #333;
-	}
+.btn:hover {
+	background-color: #1f71c9;
+	box-shadow: 0 4px 10px #333;
+}
 
 .close-btn {
 	display: inline-block;
